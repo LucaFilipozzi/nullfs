@@ -2,7 +2,7 @@
 
 ## description
 
-nullfs implements FUSE handler for a flat null filesystem.
+nullfs implements a FUSE handler for a flat null filesystem.
 
 flat in that the handler allows the creation, reading, and writing of files but
 not of directories.
